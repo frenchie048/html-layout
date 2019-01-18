@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(204, 197, 197);
+}
+header {
+    background-color: gray;
+    height: 150px;
+    border: none;
+}
+
+section {
+    height: 740px;
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.footer {
+    width: 70%;
+    height: 60px;
+    margin: 0 auto;
+    background-color: black;
+}

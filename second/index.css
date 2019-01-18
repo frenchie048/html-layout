@@ -1,0 +1,67 @@
+body {
+    background-color: white;
+}
+
+header {
+    height: 200px;
+    background-color: white;
+    margin: 20px;
+    border: 3px solid black;
+}
+.little-rect {
+    height: 125px;
+    width: 40px;
+    margin-left: 10px;
+    margin-top: 55px;
+    background-color: rgb(128, 49, 219);
+    float: left;
+}
+.big-rect {
+    height: 175px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: green; 
+    float: left;
+}
+.circle {
+    height: 175px;
+    width: 175px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: rgb(0, 217, 255);
+    border-radius: 50%;
+    float: left;
+}
+.section-one {
+    height: 250px;
+    border: 3px dotted black;
+    margin: 20px;
+    padding: 40px 40px 30px;
+    align-content: space-around;
+}
+.tan-rect {
+    height: 175px;
+    width: 95%;
+    margin: 0 auto;
+    background-color: bisque;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.719);
+}
+
+.hello-friends {
+    vertical-align: middle;
+    height: 250px;
+    width: 450px;
+    background-color: white;
+    margin: 50px auto;
+    padding: 100px;
+    border: 0.5px solid rgba(128, 128, 128, 0.781);
+    box-shadow: 2px 3px rgba(199, 193, 193, 0.25);
+}
+.hello-friends h1 {
+    text-align: center;
+    color: navy;
+    letter-spacing: 8px;
+    font-weight: 600;
+    font-size: 24px;
+}
